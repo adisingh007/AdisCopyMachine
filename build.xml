@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="com.adi.copymachine.view.AdisCopyMachineApplication" default="compile">
+	<target name="compile">
+		<javac srcdir="src" destdir="bin" includeantruntime="false"/>
+	</target>
+</project>
